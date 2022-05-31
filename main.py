@@ -18,13 +18,15 @@ from io import BytesIO
 
 # key table to write .keysym in file https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html
 program_key = "Pause"
-if not os.path.exists("ProgramKey.txt"):
-    file = open("ProgramKey.txt", 'w')
+if not os.path.exists('C:\\Speedylation'):
+    os.makedirs('C:\\Speedylation')
+if not os.path.exists("C:\\Speedylation\\ProgramKey.txt"):
+    file = open("C:\\Speedylation\\ProgramKey.txt", 'w')
     file.write("Pause")
     file.close()
     sys.exit()
 else:
-    with open("ProgramKey.txt", "r+") as f:
+    with open("C:\\Speedylation\\ProgramKey.txt", "r+") as f:
         f.seek(0)
         if f.read() == "":
             f.seek(0)
@@ -32,7 +34,7 @@ else:
         f.seek(0)
         program_key = f.read()
 
-
+"""
 def detect_darkmode_in_windows():
     try:
         import winreg
@@ -54,6 +56,7 @@ def detect_darkmode_in_windows():
         except OSError:
             break
     return False
+"""
 
 
 def on_press(key):
@@ -132,15 +135,13 @@ def on_press(key):
     window.after_idle(window.attributes, '-topmost', False)
 
     def tts_pressed():
-        if os.path.exists('temp.mp3'):
-            os.remove('temp.mp3')
-        mp3_fp = BytesIO()
+        if os.path.exists('C:\\Speedylation\\temp.mp3'):
+            os.remove('C:\\Speedylation\\temp.mp3')
+
         tts = gTTS(text=text, lang='en', tld="com")
-        tts.save("temp.mp3")
+        tts.save("C:\\Speedylation\\temp.mp3")
 
-        playsound("temp.mp3")
-        # playsound("temp.mp3")
-
+        playsound("C:\\Speedylation\\temp.mp3")
         # p = vlc.MediaPlayer("temp.mp3")
         # p.play()
 
@@ -155,5 +156,5 @@ def on_press(key):
 with keyboard.Listener(on_press=on_press) as listener:
     listener.join()
 
-# pyinstaller <file name>.py
-# pyinstaller --onefile --exclude-module _bootlocale --noconsole <file name>.py
+# Use the following command to build the .exe file:
+# pyinstaller --onefile --exclude-module _bootlocale --noconsole -n Speedylation.exe main.py

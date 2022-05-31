@@ -17,6 +17,6 @@
  You can find the .keysym of every key here: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html.
  
  Now, it sounds shady, I know , but you're going to need to 'allow the threat' at Windows Defender or any other anti-virus software you might have.
- If you have still have any doubt that it's a maleware, you can look at the code and build it yourseld with pyinstaller (the commands are written at the end of the main.py file)
+ If you have still have any doubt that it's a maleware, you can look at the code and build it yourseld with pyinstaller (using "pyinstaller --onefile --exclude-module _bootlocale --noconsole main.py").
  
  Now, run the "Speedylation.exe" file again or restart the system and you're all set! Enjoy!
