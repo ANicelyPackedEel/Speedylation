@@ -1,12 +1,7 @@
 import os
 import sys
-# import time
 import tkinter
 from tkinter import *
-import threading
-from playsound import playsound
-# import vlc
-# import customtkinter
 import clipboard
 import pyautogui
 import requests
@@ -14,7 +9,8 @@ from bs4 import BeautifulSoup
 from pynput import keyboard as keyboard
 from pynput.mouse import Button, Controller
 from gtts import gTTS
-from io import BytesIO
+from playsound import playsound
+# import vlc
 
 # key table to write .keysym in file https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html
 program_key = "Pause"
@@ -81,7 +77,7 @@ def on_press(key):
     for t in soup.find_all('div', {'class': 'normal_translation_div'}):
         translations += t.text
     if translations == '':
-        translated_words = "No translation found :("
+        translations = "No translation found :("
     else:
         translations = translations.replace(';', ',').strip('\n').rstrip() + "\n"
 
@@ -95,15 +91,11 @@ def on_press(key):
 
     mouse_pos = pyautogui.position()
 
-    # customtkinter.set_appearance_mode("light")
-    # customtkinter.set_default_color_theme("blue")
-
     window = Tk()
     mouse_x = mouse_pos[0]
     mouse_y = mouse_pos[1]
     window.geometry(f"+{mouse_x}+{mouse_y}")  # x, y
     window.title("What's \"" + text + "\"?")
-    # window.attributes('-alpha', 0.95)
     window.lift()
     window.attributes('-topmost', True)
     window.bind(f"<{program_key}>", lambda event: close())
