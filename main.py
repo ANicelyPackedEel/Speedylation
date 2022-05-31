@@ -6,10 +6,10 @@ import clipboard
 import pyautogui
 import requests
 from bs4 import BeautifulSoup
-from pynput import keyboard as keyboard
-from pynput.mouse import Button, Controller
 from gtts import gTTS
 from playsound import playsound
+from pynput import keyboard as keyboard
+from pynput.mouse import Button, Controller
 # import vlc
 
 # key table to write .keysym in file https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html
@@ -38,7 +38,7 @@ def detect_darkmode_in_windows():
         # window.
         return False
     registry = winreg.ConnectRegistry(None, winreg.HKEY_CURRENT_USER)
-    reg_keypath = r'SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize'
+    reg_keypath = r'SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize'
     try:
         reg_key = winreg.OpenKey(registry, reg_keypath)
     except FileNotFoundError:

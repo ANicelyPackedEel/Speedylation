@@ -888,13 +888,137 @@
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
    'PYMODULE'),
+  ('_py_abc',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
+   'PYMODULE'),
   ('tracemalloc',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('_py_abc',
+  ('pynput.mouse',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput._util',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('six',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE'),
+  ('pynput',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput._info',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_info.py',
+   'PYMODULE'),
+  ('pynput._util.uinput',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\uinput.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.mouse._dummy',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin_vks',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\darwin_vks.py',
+   'PYMODULE'),
+  ('pynput.keyboard._uinput',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_uinput.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('pynput.keyboard._dummy',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_win32.py',
    'PYMODULE'),
   ('playsound',
    "C:\\Users\\Erel's "
@@ -1076,10 +1200,6 @@
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\urllib3\\exceptions.py',
    'PYMODULE'),
-  ('six',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\six.py',
-   'PYMODULE'),
   ('gtts.lang',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\gtts\\lang.py',
@@ -1115,126 +1235,6 @@
   ('gtts.version',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\gtts\\version.py',
-   'PYMODULE'),
-  ('pynput.mouse',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\__init__.py',
-   'PYMODULE'),
-  ('pynput.mouse._base',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_base.py',
-   'PYMODULE'),
-  ('pynput._util',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\__init__.py',
-   'PYMODULE'),
-  ('pynput._util.xorg_keysyms',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
-   'PYMODULE'),
-  ('pynput._util.win32_vks',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\win32_vks.py',
-   'PYMODULE'),
-  ('pynput.keyboard',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\__init__.py',
-   'PYMODULE'),
-  ('pynput.keyboard._base',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_base.py',
-   'PYMODULE'),
-  ('pynput',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\__init__.py',
-   'PYMODULE'),
-  ('pynput._info',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_info.py',
-   'PYMODULE'),
-  ('pynput.keyboard._xorg',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_xorg.py',
-   'PYMODULE'),
-  ('pynput._util.darwin_vks',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\darwin_vks.py',
-   'PYMODULE'),
-  ('pynput._util.uinput',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\uinput.py',
-   'PYMODULE'),
-  ('pynput.keyboard._win32',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_win32.py',
-   'PYMODULE'),
-  ('ctypes.wintypes',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\wintypes.py',
-   'PYMODULE'),
-  ('pynput.keyboard._dummy',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_dummy.py',
-   'PYMODULE'),
-  ('pynput.mouse._xorg',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_xorg.py',
-   'PYMODULE'),
-  ('pynput.mouse._dummy',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_dummy.py',
-   'PYMODULE'),
-  ('pynput.keyboard._darwin',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_darwin.py',
-   'PYMODULE'),
-  ('pynput._util.xorg',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\xorg.py',
-   'PYMODULE'),
-  ('pynput._util.darwin',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\darwin.py',
-   'PYMODULE'),
-  ('ctypes.util',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\util.py',
-   'PYMODULE'),
-  ('ctypes._aix',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\_aix.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dyld',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\dyld.py',
-   'PYMODULE'),
-  ('ctypes.macholib',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\__init__.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dylib',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\dylib.py',
-   'PYMODULE'),
-  ('ctypes.macholib.framework',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\framework.py',
-   'PYMODULE'),
-  ('pynput.mouse._darwin',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_darwin.py',
-   'PYMODULE'),
-  ('pynput.keyboard._uinput',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\keyboard\\_uinput.py',
-   'PYMODULE'),
-  ('pynput.mouse._win32',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\mouse\\_win32.py',
-   'PYMODULE'),
-  ('pynput._util.win32',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pynput\\_util\\win32.py',
    'PYMODULE'),
   ('bs4',
    "C:\\Users\\Erel's "
@@ -1332,89 +1332,53 @@
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\__init__.py',
    'PYMODULE'),
-  ('lxml.includes.libxml',
+  ('lxml.html._setmixin',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\usedoctest.py',
    'PYMODULE'),
   ('lxml.html.ElementSoup',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\ElementSoup.py',
    'PYMODULE'),
-  ('lxml.html.defs',
+  ('lxml.isoschematron',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\defs.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\isoschematron\\__init__.py',
    'PYMODULE'),
   ('lxml.html',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\__init__.py',
    'PYMODULE'),
-  ('lxml.html._html5builder',
+  ('lxml.ElementInclude',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\_html5builder.py',
-   'PYMODULE'),
-  ('lxml.html._setmixin',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\_setmixin.py',
-   'PYMODULE'),
-  ('lxml.html._diffcommand',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\_diffcommand.py',
-   'PYMODULE'),
-  ('lxml.html.builder',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\builder.py',
-   'PYMODULE'),
-  ('lxml.includes.libxslt',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
-   'PYMODULE'),
-  ('lxml.includes',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\__init__.py',
-   'PYMODULE'),
-  ('lxml.html.html5parser',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\html5parser.py',
-   'PYMODULE'),
-  ('lxml.includes.libexslt',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\ElementInclude.py',
    'PYMODULE'),
   ('lxml.includes.extlibs',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\extlibs\\__init__.py',
    'PYMODULE'),
-  ('lxml.isoschematron',
+  ('lxml.includes.libxslt',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
    'PYMODULE'),
-  ('lxml.ElementInclude',
+  ('lxml.html.builder',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\ElementInclude.py',
-   'PYMODULE'),
-  ('lxml.cssselect',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\cssselect.py',
-   'PYMODULE'),
-  ('lxml.html.formfill',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\formfill.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\builder.py',
    'PYMODULE'),
   ('lxml.usedoctest',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\usedoctest.py',
    'PYMODULE'),
-  ('lxml.html.soupparser',
+  ('lxml.includes',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\__init__.py',
    'PYMODULE'),
-  ('lxml.pyclasslookup',
+  ('lxml.html.defs',
    "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\pyclasslookup.py',
-   'PYMODULE'),
-  ('lxml.html.usedoctest',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\defs.py',
    'PYMODULE'),
   ('lxml.doctestcompare',
    "C:\\Users\\Erel's "
@@ -1423,6 +1387,42 @@
   ('cgi',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\cgi.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   "C:\\Users\\Erel's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\lxml\\html\\_diffcommand.py',
    'PYMODULE'),
   ('bs4.builder._html5lib',
    "C:\\Users\\Erel's "
@@ -1571,10 +1571,6 @@
   ('pyperclip',
    "C:\\Users\\Erel's "
    'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyperclip\\__init__.py',
-   'PYMODULE'),
-  ('PyQt5',
-   "C:\\Users\\Erel's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
   ('pyscreeze',
    "C:\\Users\\Erel's "
