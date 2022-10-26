@@ -12,7 +12,7 @@
  Download "Speedylation.exe" and put it in the Startup folder.
  You can access the Startup folder by holding the Win key and 'r', writing "shell:startup" in the search box and pressing ok.
  
- After the initial installation, open the "Speedylation.exe" file once to create the "ProgramKey.txt".
+ After the initial installation, open the "Speedylation.exe" file once to create the "ProgramKey.txt". The file will be created at "C:\Speedylation".
  In that file, write the .keysym of the key you want to use for translation (use a useless key like Pause/Break, Scroll lock or the Menu key).
  You can find the .keysym of every key here: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html.
  
