@@ -1,7 +1,7 @@
 # SpeedyLation
  Translate highlighted/selected words from English to Hebrew quickly.
  Highlight/Select any word/phrase in English to see its translation to Hebrew and Its meaning in English.
- 
+ ![image](https://user-images.githubusercontent.com/106536344/201786714-c600e3d1-573b-481f-ba92-27a2a6458083.png)
  Once pressing the selected key, the program opens a small window with the Hebrew translation as is found in https://www.morfix.co.il/ and the highest voted meaning in Urban Dictionary.
  The windows has a button you press to listen to how the word is pronounced in English (with Google's text-to-speech).
  To close the window, press the x button or the key you pressed to open the window.
